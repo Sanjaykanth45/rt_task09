@@ -12,7 +12,7 @@ const Dashboard = () => {
         <h3>Welcome Sanjay Kanth</h3>
         <p>
           All systems are running smoothly! You have{" "}
-          <a href="#" className="text-primary">
+          <a href="/" className="text-primary">
             3 unread alerts!
           </a>
         </p>
